@@ -1,2 +1,2 @@
 # Calculator
-WebApp Calculator
+WebApp Calculator using Javascript
